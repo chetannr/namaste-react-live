@@ -1,0 +1,5 @@
+Q. What is Emmet?
+A. Emmet give a boilerplate code.
+
+Q. crossorigin?
+A. 
